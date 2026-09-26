@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Alumni Connect</string>
+
+    <string name="register_title">Join the Network</string>
+    <string name="register_subtitle">Connect with your alma mater and batch mates</string>
+
+    <string name="hint_full_name">Full Name</string>
+    <string name="hint_email">Email Address</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+
+    <string name="btn_sign_up">Sign Up</string>
+
+    <string name="text_already_have_account">Already a member? </string>
+    <string name="btn_login_text">Log In</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

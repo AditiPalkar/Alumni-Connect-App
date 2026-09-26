@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Background gradients -->
+    <color name="bg_start_yellow">#F8F49D</color>
+    <color name="bg_center_pink">#EE9BCF</color>
+    <color name="bg_end_purple">#6C4AB6</color>
+
+    <!-- Text colors -->
+    <color name="text_title_purple">#4A2C87</color>
+    <color name="text_subtitle_purple">#8E7AA6</color>
+    <color name="text_body_gray">#7A7A95</color>
+    <color name="text_dark">#2D2D2D</color>
+    <color name="text_grey">#808080</color>
+    <color name="text_white">#FFFFFF</color>
+    <color name="text_purple">#5B41F3</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="theme_bg_white">#FFFFFF</color>
+    <color name="theme_purple_dark">#5B41F3</color>
+    <color name="theme_purple_light">#886CFF</color>
+    <color name="theme_lime">#EBF776</color>
+
+    <color name="icon_student_bg">#8C52FF</color>
+    <color name="icon_alumni_start">#F9C0C0</color>
+    <color name="icon_alumni_end">#F4E68E</color>
+
+    <color name="alumni_theme_start">#E9A8F2</color>
+    <color name="alumni_theme_end">#9C67F3</color>
+
+    <color name="card_stat_purple">#755BFA</color>
+    <color name="card_action_purple">#6F51F3</color>
+    <color name="card_action_pink">#F78ECA</color>
+
+    <color name="tag_purple_bg">#6F51F3</color>
+    <color name="tag_pink_bg">#F78ECA</color>
+
+    <color name="avatar_pink">#F78ECA</color>
+    <color name="avatar_purple">#6F51F3</color>
+    <color name="avatar_indigo">#8A72F7</color>
+
+    <color name="banner_yellow">#F3F9A7</color>
+    <color name="banner_pink">#F78ECA</color>
+
+    <color name="nav_item_active_alumni">#F78ECA</color>
+    <color name="nav_item_inactive">#808080</color>
+    <color name="nav_bg_active_alumni">#FCE7F3</color>
+
+</resources>
